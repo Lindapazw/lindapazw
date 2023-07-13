@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I’m Linda! 
+### Who am i? 
+- I´m IT technician and advance student of computer science engineer - Soy técnico en informática y estudiante avanzado de ingeniería informática.
+- 
+### Interests - Mis Intereses 👀:
+Web Development | Mobile Development | Data Science | 
+--- | --- | --- | 
+<img src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png" width="100" height="100" /> |<img src="https://cdn-icons-png.flaticon.com/512/3371/3371557.png" width="100" height="100" /> | <img src="https://cdn-icons-png.flaticon.com/512/9304/9304571.png" width="100" height="100" /> |
+
 
 - 🔭 I’m currently working on ITR and CoderHouse
 - 🌱 I’m currently learning IA 
