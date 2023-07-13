@@ -18,5 +18,5 @@ Web Development | Mobile Development | Data Science | artificial intelligence
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lindapazw&theme=onedark-duo&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=noeliarominaacosta&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=lindapazw&icon=0&color=5)](https://visitcount.itsvg.in)
 
