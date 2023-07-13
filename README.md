@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ITR and CoderHouse
 - 🌱 I’m currently learning IA 
 - 👯 I’m looking to collaborate on dynamic projects with positive people
-- 📫 How to reach me: lindacsndelapaz@gmail.com or [Linkedin - @lindapazw]((https://www.linkedin.com/in/lindapazw/))
+- 📫 How to reach me: [Linkedin - @lindapazw](www.linkedin.com/in/lindapazw)
 - 
   
 ### Interests 👀:
