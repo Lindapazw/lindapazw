@@ -24,7 +24,7 @@ AI | Data Science | Mobile  | Web
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lindapazw&theme=onedark-duo&hide_border=false&background=30,3f8acb,1dd8fe&stroke=fff&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff)
 
 ### All Language:
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?lindapazw=ffflabs\&layout=compact)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Lindapazw=ffflabs\&layout=compact)
 
 
 
