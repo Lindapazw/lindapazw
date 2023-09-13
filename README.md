@@ -1,4 +1,4 @@
-### Hi, I’m Linda! 
+### Hi, My name is Linda! 
 ### Who am i? 
 - I´m a software engineer, passionate about artificial intelligence
   
