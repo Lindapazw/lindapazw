@@ -23,7 +23,8 @@ AI | Data Science | Mobile  | Web
 ### Contributions:
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lindapazw&theme=onedark-duo&hide_border=false&background=30,3f8acb,1dd8fe&stroke=fff&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff)
 
-
+### All Language:
+![Your Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lindapazw&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lindapazw&icon=0&color=5)](https://visitcount.itsvg.in)
