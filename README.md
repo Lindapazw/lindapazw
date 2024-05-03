@@ -2,7 +2,7 @@
 ### Who am i? 
 
 - I´m a software engineer
-- 🌱 I’m currently learning UX/UI
+- 🌱 I’m currently learning about UX/UI
 - 👯 I’m looking to collaborate on dynamic projects with positive people
 - 📫 How to reach me: https://www.linkedin.com/in/lindapazw/
 - 📫 My email: lindacsndelapaz@gmail.com
