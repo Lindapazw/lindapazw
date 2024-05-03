@@ -1,9 +1,8 @@
 ### Hi, My name is Linda! 
 ### Who am i? 
-- I´m a software engineer, passionate about artificial intelligence
-  
-- 🔭 I’m currently working on ITR and CoderHouse
-- 🌱 I’m currently learning IA 
+
+- I´m a software engineer
+- 🌱 I’m currently learning UX/UI
 - 👯 I’m looking to collaborate on dynamic projects with positive people
 - 📫 How to reach me: https://www.linkedin.com/in/lindapazw/
 - 📫 My email: lindacsndelapaz@gmail.com
