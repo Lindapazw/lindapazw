@@ -1,4 +1,4 @@
-### Hi, My name is Linda! 
+## Hi, My name is Linda! 
 ### Who am i? 
 
 - I´m a software engineer
