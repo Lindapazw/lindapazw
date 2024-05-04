@@ -27,9 +27,6 @@ AI | Web  | Mobile  | UX/UI
 ### Contributions:
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lindapazw&theme=onedark-duo&hide_border=false&background=30,3f8acb,1dd8fe&stroke=fff&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff)
 
-### All Language:
-![Your Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lindapazw&layout=compact)
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
