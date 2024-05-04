@@ -9,7 +9,7 @@
   
   
 ### Interests:
-AI | Data Science | Mobile  | Web 
+AI | Web  | Mobile  | UX/UI
 --- | --- | --- |  --- | 
  <img src="https://github.com/Lindapazw/lindapazw/assets/88910652/6fd97101-d4a7-4e8a-ae19-1b1f233ec6eb" width="100" height="100" /> | <img src="https://github.com/Lindapazw/lindapazw/assets/88910652/f130603b-459f-4f9b-bcb7-ed0f61eed181" width="100" height="100" /> | <img src="https://github.com/Lindapazw/lindapazw/assets/88910652/e77861c9-ca7d-4afd-bb8b-ab343f3963cd" width="100" height="100" /> |  <img src="https://github.com/Lindapazw/lindapazw/assets/88910652/381d8b88-d958-4bdd-bdfa-7c11b1afb6c4" width="100" height="100" /> |
 
