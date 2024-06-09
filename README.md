@@ -34,3 +34,4 @@ AI | Web  | Mobile  | UX/UI
     <img src="https://skillicons.dev/icons?i=nodejs,typescript,python,express,firebase,mongodb,java,nextjs,mysql" /><br>
 </div>
 
+<br/>
