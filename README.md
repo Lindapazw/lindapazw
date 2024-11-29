@@ -4,11 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Linda+Paz!;" />
 </h1>
 
-### Who am i? 
+## Hi There! 👋
 
-- I´m a passionate software engineer
-- 🌱 I’m currently learning about UX/UI
-- 👯 I’m looking to collaborate on dynamic projects with positive people
+### Who am I?
+
+- ✨ I’m a passionate Product Designer & Front-end Developer with a strong focus on creating exceptional digital experiences.
+- 🌱 Currently diving deeper into UX/UI design and perfecting my skills in design testing, prototyping, and responsive design.
+- 🤝 I’m looking to collaborate on dynamic and impactful projects with positive, creative teams.
 - 📫 How to reach me: https://www.linkedin.com/in/lindapazw/
 - 📫 My email: lindacsndelapaz@gmail.com
   
