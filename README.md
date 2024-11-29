@@ -30,8 +30,8 @@ AI | Web  | Mobile  | UX/UI
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,vue,bootstrap,vscode,github,git,figma,tailwind,sass" />
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,python,express,firebase,mongodb,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,bootstrap,vscode,github,git,figma,tailwind,sass" />
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,python,firebase,nextjs,mysql" /><br>
 </div>
 
 <br/>
