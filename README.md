@@ -4,8 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Linda+Paz!;" />
 </h1>
 
-## Hi There! 👋
-
+### Hi There! 👋
 ### Who am I?
 
 - ✨ I’m a passionate Product Designer & Front-end Developer with a strong focus on creating exceptional digital experiences.
