@@ -9,7 +9,7 @@
 
 - ✨ I’m a passionate Product Designer & Front-end Developer with a strong focus on creating exceptional digital experiences.
 - 🌱 Currently diving deeper into UX/UI design and perfecting my skills in design testing, prototyping, and responsive design.
-- 🤝 I’m looking to collaborate on dynamic and impactful projects with positive, creative teams.
+- 🤝 I’m looking to collaborate on dynamic and impactful projects with positive teams.
 - 📫 How to reach me: https://www.linkedin.com/in/lindapazw/
 - 📫 My design: https://www.behance.net/lindapazw
 - 📫 My email: lindacsndelapaz@gmail.com
